@@ -1,6 +1,6 @@
 test2
 test
-testanzai
+test
 ブランチtest1
 <!---
 ryomatsk/ryomatsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
